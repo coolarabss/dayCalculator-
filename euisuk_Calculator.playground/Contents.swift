@@ -1,6 +1,4 @@
 //: Playground - noun: a place where people can play
-// iOS 지원자 이의석 입사과제
-// 그레고리력 -N개월 계산기
 // 1582년부터 계산가능합니다.
 import UIKit
 
